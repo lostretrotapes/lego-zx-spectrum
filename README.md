@@ -2,6 +2,8 @@
 
 Work in progress of a ZX Spectrum in Lego form. 
 
+To get the build you will need Bricklink Studio from https://www.bricklink.com/v3/studio/download.page and the io file from this repo
+
 Next steps are:
 
 1. Place mount for Pico inside the case
