@@ -1,6 +1,6 @@
 # Lego ZX Spectrum
 
-Work in progress of a ZX Spectrum in Lego form. 
+Work in progress of a ZX Spectrum in Lego form. Guide and photos of the build can be found at my website at https://www.lostretrotapes.com/lego-zx-spectrum/
 
 To get the build you will need Bricklink Studio from https://www.bricklink.com/v3/studio/download.page and the `ZX Spectrum_build.io` file from this repo
 
