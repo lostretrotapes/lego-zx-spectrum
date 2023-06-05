@@ -11,3 +11,4 @@ Next steps are:
 3. Run Power into the case
 
 ![ZX Spectrum](ZX%20Spectrum_main.png)
+![ZX Spectrum](ZX%20Spectrum_back.png)
